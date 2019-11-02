@@ -1,5 +1,5 @@
-## FS2_Final_Project
-# Nrup Patel 101219018
+# FS2_Final_Project
+## Nrup Patel 101219018
 Full Stack II: Final Project - Due Nov 2, 2019 (End of Class) 
 ## Information
 App Framework
